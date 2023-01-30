@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var productId = (int)ViewData["productId"];
+
+}
+
+
+<div class="card text-center">
+    <div class="card-body">
+        <h5 class="card-title">How Much Are You Satisfied with This Product?</h5>
+
+        <div class="wrapper">
+            <input class="form-control me-2" type="submit" id="productId" aria-label="Search" value="@productId" hidden>
+            <input class="star" type="radio" id="5" name="1">
+            <label for="5">&#10038;</label>
+            <input class="star" type="radio" id="4" name="1">
+            <label for="4">&#10038;</label>
+            <input class="star" type="radio" id="3" name="1">
+            <label for="3">&#10038;</label>
+            <input class="star" type="radio" id="2" name="1">
+            <label for="2">&#10038;</label>
+            <input class="star" type="radio" id="1" name="1">
+            <label for="1">&#10038;</label>
+        </div>
+
+        <img class="d-inline-block rounded mx-auto d-block" src="https://www.powerreviews.com/wp-content/uploads/2022/09/uk-volume-recency.webp" width="800" height="450" />
+    </div>
+</div>
+

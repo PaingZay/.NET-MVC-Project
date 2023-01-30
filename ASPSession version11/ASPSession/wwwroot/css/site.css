@@ -1,0 +1,38 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+/*star*/
+.wrapper {
+    display: inline-block;
+}
+
+    .wrapper * {
+        float: right;
+    }
+
+input {
+    display: none;
+}
+
+label {
+    font-size: 60px;
+}
+
+input:checked ~ label {
+    color: gold;
+}

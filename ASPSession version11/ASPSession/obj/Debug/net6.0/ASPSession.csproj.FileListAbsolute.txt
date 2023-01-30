@@ -1,0 +1,1078 @@
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version2/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version3/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version4/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version5/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version6/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version7/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/All Graded Assignments/CherWah/CA Shopping Cart/ASPSession version7/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version8/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version9/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/appsettings.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/ASPSession.exe
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+C:/Users/bert/OneDrive/Desktop/ASPSession version10/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/appsettings.json
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Azure.Core.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Azure.Identity.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/paingzay/Downloads/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/appsettings.json
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Azure.Core.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Azure.Identity.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+/Users/paingzay/Documents/Backup/ASPSession version11/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/appsettings.json
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/ASPSession
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/ASPSession.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Azure.Core.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Azure.Identity.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+/Users/paingzay/Documents/ASPSession version11.1/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/appsettings.Development.json
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/appsettings.json
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.staticwebassets.runtime.json
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.deps.json
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.runtimeconfig.json
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/ASPSession.pdb
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Azure.Core.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Azure.Identity.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Castle.Core.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.AssemblyReference.cache
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfoInputs.cache
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.AssemblyInfo.cs
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CoreCompileInputs.cache
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.MvcApplicationPartsAssemblyInfo.cache
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cache
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.RazorAssemblyInfo.cs
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/staticwebassets.build.json
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/staticwebassets.development.json
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/bundle/ASPSession.styles.css
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/scopedcss/projectbundle/ASPSession.bundle.scp.css
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.csproj.CopyComplete
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/refint/ASPSession.dll
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.pdb
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ASPSession.genruntimeconfig.cache
+/Users/paingzay/Documents/ASPSession version11/ASPSession/obj/Debug/net6.0/ref/ASPSession.dll

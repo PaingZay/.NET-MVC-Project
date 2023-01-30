@@ -1,0 +1,82 @@
+﻿@model ASPSession.Models.ViewModels.CartViewModel
+
+@{
+        ViewData["Title"] = "Cart Overview";
+}
+
+@if (Model.CartItems.Count > 0)
+{
+        <table class="table">
+                <tr>
+                        <th>Product</th>
+                        <th></th>
+                        <th>Quantity</th>
+                        <th></th>
+                        <th>Price</th>
+                        <th>Total</th>
+                </tr>
+                @foreach (var item in Model.CartItems)
+                {
+                        <tr>
+                                <td>@item.ProductName</td>
+                                @*<td><img src="@item.Image" class="img-fluid" alt=""></td>*@
+                                <td>@item.Quantity</td>
+                                <td>
+                                        <a class="btn btn-primary btn-sm" asp-action="Add" asp-controller="Cart" asp-route-id="@item.ProductId">+</a>
+                    <a class="btn btn-info btn-sm" asp-action="Decrease" asp-controller="Cart" asp-route-id="@item.ProductId">-</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Remove" asp-controller="Cart"  asp-route-id="@item.ProductId">Remove</a>
+                                </td>
+                                <td>@item.Price.ToString("C2")</td>
+                                <td>@Model.CartItems.Where(x => x.ProductId == item.ProductId).Sum(x => x.Quantity * x.Price).ToString("C2")</td>
+                        </tr>
+                }
+                <tr>
+                        <td class="text-right" colspan="4">Grand Total: @Model.GrandTotal.ToString("C2")</td>
+                </tr>
+                <tr>
+                        <td class="text-right" colspan="4">
+                                <a class="btn btn-danger" asp-action="Clear">Clear Cart</a>
+                                <a class="btn btn-primary" id="checkout">Checkout</a>
+                        </td>
+                </tr>
+        </table>
+
+
+}
+else
+{
+        <h3 class="display-4 text-center">Your cart is empty.</h3>
+}
+
+
+
+            
+@section Scripts
+    {
+    <script>
+        $(document).ready(function () {
+            if ('@context.HttpContext!.Session.GetString("username")' !== '') {
+                $('#logintag a').remove();
+                $('#logintag').append('<a href=' + '"@Url.Action("Logout", null, new { area = string.Empty, controller = "UserAccess" })" class= "nav-link" > Logout <//a>');
+                $('#navbarNav div a').remove();
+                $('#navbarNav div').append('<a class="navbar-brand mb-0 h1" >' + 'Greetings, @ViewData["username"]' + '</a>');
+
+            }
+        });
+
+       
+
+        $(document).on('click', '#checkout', function () {
+            if ('@context.HttpContext!.Session.GetString("username")' !== '') {
+                alert("Thank you for your purchase!!");
+                document.location.href = '/Cart/Clear';
+                return false;
+
+            }else {
+                alert("Please log in");
+            }
+            document.location.href = '/UserAccess/LoginPage';       //redirects user to Home Page if logged in, else redirects user to LoginPage
+        });
+
+    </script>
+}

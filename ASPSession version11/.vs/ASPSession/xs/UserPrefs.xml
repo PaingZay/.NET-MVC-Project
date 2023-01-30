@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{16594257-F6B5-4186-8AA7-E76629F7EB1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPSession/DAO/ShpCrtConnector.cs">
+    <Files>
+      <File FileName="ASPSession/Program.cs" Line="26" Column="2" />
+      <File FileName="ASPSession/appsettings.json" Line="11" Column="127" />
+      <File FileName="ASPSession/DAO/ShpCrtConnector.cs" Line="58" Column="45" />
+      <File FileName="ASPSession/Models/Rating.cs" Line="11" Column="1" />
+      <File FileName="ASPSession/DAO/IConnector.cs" Line="3" Column="7" />
+      <File FileName="ASPSession/Views/Home/Main.cshtml" Line="89" Column="19" />
+      <File FileName="ASPSession/DAO/DB.cs" Line="18" Column="1" />
+      <File FileName="ASPSession/DAO/EFConnector.cs" Line="1" Column="1" />
+      <File FileName="ASPSession/DAO/SessionExtensions.cs" Line="1" Column="1" />
+      <File FileName="ASPSession/Views/Home/Cart.cshtml" Line="1" Column="1" />
+      <File FileName="ASPSession/Models/ActivationCodes.cs" Line="1" Column="1" />
+      <File FileName="ASPSession/DAO/create_orderDB.sql" Line="1" Column="1" />
+      <File FileName="ASPSession/Controllers/HomeController.cs" Line="154" Column="1" />
+      <File FileName="ASPSession/Controllers/RatingController.cs" Line="109" Column="14" />
+      <File FileName="ASPSession/Models/Star.cs" Line="12" Column="1" />
+      <File FileName="ASPSession/wwwroot/js/site.js" Line="70" Column="35" />
+      <File FileName="ASPSession/Controllers/OrderHistoryController.cs" Line="17" Column="6" />
+      <File FileName="ASPSession/Views/Home/MyPurchases.cshtml" Line="56" Column="76" />
+      <File FileName="ASPSession/wwwroot/css/site.css" Line="39" Column="1" />
+      <File FileName="ASPSession/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="ASPSession/Controllers/SearchController.cs" Line="1" Column="1" />
+      <File FileName="ASPSession/Views/Rating/Index.cshtml" Line="30" Column="1" />
+      <File FileName="ASPSession/Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="ASPSession/Models/Cart.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASPSession" expanded="True">
+            <Node name="ASPSession" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAO" expanded="True">
+                <Node name="ShpCrtConnector.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Rating" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ASPSession PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

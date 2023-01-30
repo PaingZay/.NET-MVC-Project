@@ -1,0 +1,92 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "My Purcahses";
+    List<Order>? orders = (List<Order>?)ViewData["Orders"];
+    Dictionary<int, Guid>? codes = (Dictionary<int, Guid>?)ViewData?["ActivationCode"];
+    List<Product>? ProductList = (List<Product>?)ViewData?["Product"];
+}
+
+@if (orders == null ||  orders.Count > 0)
+{
+
+    <div style="padding-top: 100px;">
+        @{
+
+            for (int i = 0; i < orders.Count; i++)
+            {
+                            <div class="ItemContainer" id="container" style="max-width:70%; padding-left:15%;">
+                    @{
+                        int productId = orders[i].ProductID;
+                        string imgPath = ProductList[i].ProductIMG;
+                        string productName = ProductList[i].ProductName;
+                        string productDescription = ProductList[i].ProductDesc;
+                        DateTime OrderDate = orders[i].orderDate;
+                        int ProductQty = orders[i].productQty;
+                        int OrderId = orders[i].orderId;
+                        string ActivationCode = codes[OrderId].ToString();
+                        <table>
+                                                    <tr>
+                                                        <td style="width:30%">
+                                                            <div class="card text-center" style="height:330px;">
+                                                                <img src="@imgPath" class="d-inline-block rounded mx-auto d-block" width="120" height="120" />
+                                                                <br>
+                                                                <br>
+                                                                <div class="ItemDesc">
+                                                                    <h5 for="ItemName" class="card-title">@productName </h5>
+                                                                    <p for="ItemDescription" class="card-text">Description:@productDescription </p>
+
+
+
+
+                                                                    <form class="d-flex justify-content-center" role="search" action="/Rating/Index" method="POST" >
+                                                                        <table>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <button class="btn btn-dark" id="clickme" onclick="ChangeStyle()"> Rate This </button>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <input class="form-control me-2" type="text" id="productId" name="productId" aria-label="Search" value="@productId" style="color:transparent;background-color:transparent;border:none;">
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </form>
+
+
+
+
+                                                                </div>
+                                                            </div>
+                                                        </td>
+                                                        <td style="width:70%">
+                                                            <div class="card text-center" style="height:330px;">
+                                                                <br>
+                                                                <br>
+                                                                <h5 for="Purchase On" class="card-title">Purchased On:@OrderDate</h5>
+                                                                <br>
+                                                                <h5 for="Quantity" class="card-title">Quantity:@ProductQty</h5>
+                                                                <br>
+                                                                <h5 formaction="Activation Code" class="card-title">Activation Code:</h5>
+                                                                <div class="text-center">
+                                                                    <h8 name="Activation Code" style="width:65%" >
+                                                                     <p style="align-content:center"> @ActivationCode </p>
+                                                                    </h8>
+                                                                </div>
+                                                                <br>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                }
+                            </div>
+            }
+        }
+    </div>
+}
+else
+{
+    <h3 class="display-4 text-center">You have no previous purchases.</h3>
+}
